@@ -9,8 +9,8 @@ app.use(cors()); // Allow your frontend to call this server
 app.use(express.json());
 
 // --- YOUR BYBIT API CREDENTIALS ---
-const BYBIT_API_KEY = "qzNSqYXlcTFYs2Tc3u";
-const BYBIT_API_SECRET = "nchbOODvpVpp89UPs6da3xTe1ikERGpE6Q8p";
+const BYBIT_API_KEY = "kFXmT5CoA1wxjBX6We";
+const BYBIT_API_SECRET = "4W2IwISqludz48dicaNdGpCsOtsC3UySjvLJ";
 const BYBIT_API_URL = "https://api.bybit.com";
 
 // --- Endpoint to get balance ---
